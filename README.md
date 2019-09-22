@@ -1,3 +1,2 @@
 # elephants
-Critical making test
-With help from some code I found online
+Critical making test site with help from some code I found online
